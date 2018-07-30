@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,source_map",
+    "logging_enabled": "false",
+    "name": "source_mapSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "source_mapSmokeTest.js"
+}
